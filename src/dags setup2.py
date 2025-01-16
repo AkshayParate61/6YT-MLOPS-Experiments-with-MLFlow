@@ -24,7 +24,7 @@ max_depth = 8
 n_estimators = 5
 
 # Mention your experiment below
-mlflow.set_experiment('YT-MLOPS-Exp1') # Give here experiment name which you have created in MLflow. or we can just give our exp name mlflow can automatic create exp like 'YT-MLOPS-Exp2'
+mlflow.set_experiment('YT-MLOPS-Exp1') # Give here experiment name which you have created in MLflow. or we can just gives our exp name mlflow can automatic create exp like 'YT-MLOPS-Exp2'
 
 with mlflow.start_run(): #experiment_id="from MLflow" put this into start_run func.
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)

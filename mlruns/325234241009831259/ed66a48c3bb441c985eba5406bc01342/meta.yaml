@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/325234241009831259/ed66a48c3bb441c985eba5406bc01342/artifacts
+end_time: 1737056159400
+entry_point_name: ''
+experiment_id: '325234241009831259'
+lifecycle_stage: active
+run_id: ed66a48c3bb441c985eba5406bc01342
+run_name: unruly-carp-165
+run_uuid: ed66a48c3bb441c985eba5406bc01342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737056138390
+status: 3
+tags: []
+user_id: DELL

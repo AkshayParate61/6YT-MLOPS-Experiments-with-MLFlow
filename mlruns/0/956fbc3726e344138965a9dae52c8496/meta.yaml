@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/956fbc3726e344138965a9dae52c8496/artifacts
+end_time: 1737046613039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 956fbc3726e344138965a9dae52c8496
+run_name: adaptable-jay-802
+run_uuid: 956fbc3726e344138965a9dae52c8496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737046612841
+status: 3
+tags: []
+user_id: DELL

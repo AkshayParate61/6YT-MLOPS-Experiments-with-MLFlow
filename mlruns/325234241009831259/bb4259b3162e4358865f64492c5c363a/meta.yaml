@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/325234241009831259/bb4259b3162e4358865f64492c5c363a/artifacts
+end_time: 1737050846474
+entry_point_name: ''
+experiment_id: '325234241009831259'
+lifecycle_stage: active
+run_id: bb4259b3162e4358865f64492c5c363a
+run_name: defiant-hen-803
+run_uuid: bb4259b3162e4358865f64492c5c363a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737050845930
+status: 3
+tags: []
+user_id: DELL

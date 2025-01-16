@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cbb99adc014749eb904abdb676610b71/artifacts
+end_time: 1737050601338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbb99adc014749eb904abdb676610b71
+run_name: righteous-dove-800
+run_uuid: cbb99adc014749eb904abdb676610b71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737050599630
+status: 3
+tags: []
+user_id: DELL

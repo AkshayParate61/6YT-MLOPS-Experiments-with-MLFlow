@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1737059087974
+current_stage: None
+description: ''
+last_updated_timestamp: 1737059087974
+name: Akshay-Model 1
+run_id: ed66a48c3bb441c985eba5406bc01342
+run_link: ''
+source: mlflow-artifacts:/325234241009831259/ed66a48c3bb441c985eba5406bc01342/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/325234241009831259/ed66a48c3bb441c985eba5406bc01342/artifacts/model
+user_id: null
+version: 1

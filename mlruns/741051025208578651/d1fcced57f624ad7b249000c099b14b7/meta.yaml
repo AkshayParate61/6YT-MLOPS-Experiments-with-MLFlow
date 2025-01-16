@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOps%20Playlist/6YT-MLOPS-Experiments-with-MLFlow/mlruns/741051025208578651/d1fcced57f624ad7b249000c099b14b7/artifacts
+end_time: 1737057761860
+entry_point_name: ''
+experiment_id: '741051025208578651'
+lifecycle_stage: active
+run_id: d1fcced57f624ad7b249000c099b14b7
+run_name: upset-squirrel-824
+run_uuid: d1fcced57f624ad7b249000c099b14b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737057761791
+status: 3
+tags: []
+user_id: DELL

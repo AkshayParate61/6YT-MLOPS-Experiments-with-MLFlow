@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOps%20Playlist/6YT-MLOPS-Experiments-with-MLFlow/mlruns/741051025208578651/ac8e55f3d8eb40bfa73dc9d183f18b4f/artifacts
+end_time: 1737057762187
+entry_point_name: ''
+experiment_id: '741051025208578651'
+lifecycle_stage: active
+run_id: ac8e55f3d8eb40bfa73dc9d183f18b4f
+run_name: aged-owl-979
+run_uuid: ac8e55f3d8eb40bfa73dc9d183f18b4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737057762122
+status: 3
+tags: []
+user_id: DELL
